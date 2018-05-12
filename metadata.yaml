@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '41988'
     url: http://www.gutenberg.org/2009/agents/41988
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43015#Bacteria-in-Daily-Life
 gutenberg_issued: '2013-06-22'
 gutenberg_type: Text
 identifiers:
