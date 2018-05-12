@@ -1,0 +1,34 @@
+_repo: Bacteria-in-Daily-Life_43015
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43015-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Frankland, Grace C.
+    aliases:
+    - Frankland, Mrs. Percy
+    - Frankland, Percy, Mrs.
+    - Frankland, Grace Coleridge Toynbee
+    birthdate: 1858
+    deathdate: 1946
+    gutenberg_agent_id: '41988'
+    url: http://www.gutenberg.org/2009/agents/41988
+description: ''
+gutenberg_issued: '2013-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43015'
+  lccn: '03017700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bacteriology'
+- !lcc 'QR'
+tableOfContents: Bacteriology in the Victorian era -- What we breathe -- Sunshine
+  and life -- Bacteriology and water -- Milk dangers and remedies -- Bacteria and
+  ice -- Some poisons and their prevention.
+title: Bacteria in Daily Life
+url: http://www.gutenberg.org/ebooks/43015
